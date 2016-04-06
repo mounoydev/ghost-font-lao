@@ -1,0 +1,6 @@
+<style type="text/css">
+@import url("/assets/fonts/Phetsarathwebfonts/style.css?v=pk");
+#post-title,#prev-btn,#next-btn,.post-content,.card-body,.card-content,.card-content h2,.card-content h2 strong,strong{ 
+font-family:Phetsarath_OT,Raleway,sans-serif;
+}
+</style>
